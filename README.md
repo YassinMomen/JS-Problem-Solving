@@ -10,5 +10,5 @@ This serves as my preparation phase before moving heavily into backend developme
 
 ## Author
 Yassin Momen
-- LinkedIn: [Yassin Momen] (https://www.linkedin.com/in/yassin-momen/)
+- LinkedIn: [Yassin Momen](https://www.linkedin.com/in/yassin-momen/)
 - Codeforces: [Yassin_Momen](https://codeforces.com/profile/Yassin_Momen)
